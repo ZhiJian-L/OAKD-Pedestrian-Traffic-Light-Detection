@@ -1,5 +1,9 @@
 # OAKD-Pedestrian-Traffic-Light-Detection
 
-Uses OAK-D
+## OAK-D
+- OpenCV DepthAI device
+- Stereo camera for depth
+- Built with Intel VPU (Visual Processing Unit) inside
 
-Detects the pedestrian traffic light (Red/Green)
+## Functions
+- Pedestrian traffic light detection (Red/Green) with Yolov4- 
